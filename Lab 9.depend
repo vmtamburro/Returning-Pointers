@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1542677676 source:e:\lab 9\main.cpp
+	<iostream>
+	"prototype.h"
+
+1542644598 e:\lab 9\prototype.h
+
+1542677442 source:e:\lab 9\definition.cpp
+	<iostream>
+
